@@ -1,6 +1,3 @@
-Here’s a polished and professional `README.md` file tailored for your Society Management System GitHub repository:
-
----
 
 # 🏘️ Society Management System
 
